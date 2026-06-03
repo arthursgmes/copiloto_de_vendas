@@ -1,14 +1,18 @@
-# Qual tema você escolheu: 
-## O tema escolhido foi sobre produtos de beleza feminina
-# Qual problema o copiloto ajuda a resolver: 
-## Ajudou a escolhe melhores produtos para diferentes situações.
-# Qual abordagem você usou, como chatbot, copiloto ou agente: 
-## Utilizei copiloto para montar a estrutura e gerar exemplos, adaptando a diferntes perfis de clientes.
-# Quais informações foram usadas;
-## O papel do assistente foi de vendas de protudos de beleza feminina, com a lista de protudos como Máscara de Cílios Great Lash, Caneta Iluminadora Touche Éclat, Batom Ruby Woo, Verniz Rouge Noir, Delineador Líquido (Tracta), Batom Líquido 12H (Dailus), Paleta de Sombras (Océane/Mariana Saad), Bases e Corretivos, Duo para Sobrancelhas da Vult, Lip Tints da Dailus e DNA Italy,  Gloss Pumping da Essence, Rímel The Colossal da Maybelline e Blush Stick da Vult, Pó Translúcido da Playboy Beauty. Mapeamento de oportunidades, construindo ofertas. Orçamentos definidos, cenários de interesse e estruturas de resposta. E adaptção feita conforme lista fornecida utilizando estratégias de ancoragem.
-# Um exemplo de conversa ou resposta gerada: 
-## Gerei três exemplos e por fim, solicitei que ele utilizasse o orçamento entre 100,00 a 150,00 reais, com produtos de high ticket e low tickets para simular diversos cenários.
-
+## Qual tema você escolheu: 
+###### O tema escolhido foi sobre produtos de beleza feminina
+---
+## Qual problema o copiloto ajuda a resolver: 
+###### Ajudou a escolhe melhores produtos para diferentes situações.
+---
+## Qual abordagem você usou, como chatbot, copiloto ou agente: 
+###### Utilizei copiloto para montar a estrutura e gerar exemplos, adaptando a diferntes perfis de clientes.
+---
+## Quais informações foram usadas;
+###### O papel do assistente foi de vendas de protudos de beleza feminina, com a lista de protudos como Máscara de Cílios Great Lash, Caneta Iluminadora Touche Éclat, Batom Ruby Woo, Verniz Rouge Noir, Delineador Líquido (Tracta), Batom Líquido 12H (Dailus), Paleta de Sombras (Océane/Mariana Saad), Bases e Corretivos, Duo para Sobrancelhas da Vult, Lip Tints da Dailus e DNA Italy,  Gloss Pumping da Essence, Rímel The Colossal da Maybelline e Blush Stick da Vult, Pó Translúcido da Playboy Beauty. Mapeamento de oportunidades, construindo ofertas. Orçamentos definidos, cenários de interesse e estruturas de resposta. E adaptção feita conforme lista fornecida utilizando estratégias de ancoragem.
+---
+## Um exemplo de conversa ou resposta gerada: 
+###### Gerei três exemplos e por fim, solicitei que ele utilizasse o orçamento entre 100,00 a 150,00 reais, com produtos de high ticket e low tickets para simular diversos cenários.
+--- 
 ## PROMPT - Assistente de vendas (loja de beleza feminina)
 
 ### 1) Papel e objetivo
