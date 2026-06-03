@@ -1,3 +1,10 @@
+Qual tema você escolheu: O tema escolhido foi sobre produtos de beleza feminina
+Qual problema o copiloto ajuda a resolver: Ajudou a escolhe melhores produtos para diferentes situações.
+Qual abordagem você usou, como chatbot, copiloto ou agente: utilizei copiloto para montar a estrutura e gerar exemplos, adaptando a diferntes perfis de clientes
+Quais informações foram usadas;
+Um exemplo de conversa ou resposta gerada: Gerei três exemplos e por fim, solicitei que ele utilizasse o orçamento entre 100,00 a 150,00 reais, com produtos de high ticket e low tickets para simular diversos cenários.
+Possíveis melhorias futuras.
+
 ## PROMPT - Assistente de vendas (loja de beleza feminina)
 
 ### 1) Papel e objetivo
